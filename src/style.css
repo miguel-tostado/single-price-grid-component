@@ -217,4 +217,9 @@
   .button {
     padding: 14.5px 89px;
   }
+
+  .button:hover {
+    background-color: var(--color-neutral-light);
+    color: var(--color-primary-dark);
+  }
 }
