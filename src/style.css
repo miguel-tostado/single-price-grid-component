@@ -173,7 +173,7 @@
   .grid-wrap {
     grid-template-areas: "top top" "middle bottom";
     grid-template-columns: 317px 318px;
-    grid-template-rows: 219px 259px;
+    grid-template-rows: 216px 259px;
     width: 635px;
   }
 
@@ -215,7 +215,7 @@
   }
 
   .button {
-    padding: 14.5px 88px;
+    padding: 14.5px 87px;
   }
 
   .button:hover {
