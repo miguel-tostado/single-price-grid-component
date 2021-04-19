@@ -81,6 +81,7 @@
     font-size: 15px;
     letter-spacing: -0.19px;
     line-height: 20px;
+    margin-bottom: 16px;
   }
 
   .top-div .div-main-text {
@@ -199,6 +200,7 @@
   .top-div .div-subheader {
     font-size: 18px;
     letter-spacing: -0.22px;
+    margin-bottom: 11px;
   }
 
   .top-div .div-main-text {
